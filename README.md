@@ -1,4 +1,4 @@
-# 3주차 신생아 프로젝트 "Scuba Diving"
+# 몰입캠프 3주차 신생아 프로젝트 "Scuba Diving"
 ## 팀원 소개
 Baby [김진석](https://github.com/bluejeans98)  
 아가 [윤태양](https://github.com/hotsunchip)  
