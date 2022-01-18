@@ -29,6 +29,10 @@ Baby [김진석](https://github.com/bluejeans98)
 처음 바닷속에 들어가면 화살표를 따라 아래로 내려가고 적당히 내려가면 화살표가 사라지며 원하는 곳 어디든 여행하면 된다.  
 *다만! 지형에 부딪히면 다이버가 정신을 잃고 쓰러지니 주의하자!*
 
+| <img src="https://user-images.githubusercontent.com/54528011/149925790-0686be1c-f0ff-4f1b-817f-eddcccadaedc.png" width="300" height="200"> | <img src="https://user-images.githubusercontent.com/54528011/149925806-9f2a5ad0-1660-4715-961e-792620001c5e.png" width="300" height="200"> | <img src="https://user-images.githubusercontent.com/54528011/149925813-a3ab7488-2e97-42cd-8ec7-90befd6b557a.png" width="300" height="200"> |
+|:---:|:---:|:---:|
+|오프닝|배 위|바닷속|
+
 ## 더 재밌게 즐기기
 - 가운데에 있는 돌 거인을 찾아보자! 이름은
 - 바위 틈에 숨어있기 좋아하는 문어 2마리를 찾아보자!
@@ -40,10 +44,13 @@ Baby [김진석](https://github.com/bluejeans98)
 ## 한 줄 평
 - 김진석
 ```
+즐겁게 게임을 만들며 한주를 보낸것 같다
 ```
 - 윤태양
 ```
+워라밸 최고다
 ```
 - 이지원
 ```
+유니티를 처음 써봤는데 새롭기도 하고 어렵기도 했다. 그래도 엄청 뿌듯하다.
 ```
